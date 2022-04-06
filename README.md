@@ -3,4 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=codergautam)
 
 
-### Discord: Coder Gautam#1081
+### Discord: gautam#1081
