@@ -7,7 +7,6 @@ I began coding in 2014, mostly in Scratch. I was always interested in computers 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codergautam&theme=tokyonight" alt="mystreak"/>
 
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15916361)](https://stackoverflow.com/users/15916361/coder-gautam-yt)
 
 <img src="https://img.shields.io/github/stars/codergautam?label=Stars" alt="stars">
 
