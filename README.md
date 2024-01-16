@@ -14,4 +14,4 @@ I began coding in 2014, mostly in Scratch. I was always interested in computers 
 
 
 
-### Discord: gautam#1081
+### Email: gautam@codergautam.dev
