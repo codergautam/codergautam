@@ -1,11 +1,8 @@
 ### Hi, I'm Gautam.
 
-I began coding in 2014, mostly in Scratch. I was always interested in computers as a child, and currently I do JS, Python, some Java, and everything else that is thrown at me. When I'm not working, I play Minecraft, watch and make YouTube videos, and just relax.
-
+I began coding in 2014, mostly in Scratch. I was always interested in computers as a child, and currently I do JS, Python, some Java, and everything else that is thrown at me. When I am not working, I use my leisure time to spend time with friends, create and edit content, and extend my knowledge on programming.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergautam&count_private=true&langs_count=7&theme=dark&layout=compact" />
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codergautam&theme=tokyonight" alt="mystreak"/>
 
 
 <img src="https://img.shields.io/github/stars/codergautam?label=Stars" alt="stars">
